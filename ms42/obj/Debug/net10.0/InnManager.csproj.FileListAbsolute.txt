@@ -1,0 +1,12 @@
+C:\Users\Hanley\OneDrive - Kansas State University\cis400repo\ms42\bin\Debug\net10.0\InnManager.deps.json
+C:\Users\Hanley\OneDrive - Kansas State University\cis400repo\ms42\bin\Debug\net10.0\InnManager.dll
+C:\Users\Hanley\OneDrive - Kansas State University\cis400repo\ms42\bin\Debug\net10.0\InnManager.pdb
+C:\Users\Hanley\OneDrive - Kansas State University\cis400repo\ms42\obj\Debug\net10.0\InnManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hanley\OneDrive - Kansas State University\cis400repo\ms42\obj\Debug\net10.0\InnManager.AssemblyInfoInputs.cache
+C:\Users\Hanley\OneDrive - Kansas State University\cis400repo\ms42\obj\Debug\net10.0\InnManager.AssemblyInfo.cs
+C:\Users\Hanley\OneDrive - Kansas State University\cis400repo\ms42\obj\Debug\net10.0\InnManager.csproj.CoreCompileInputs.cache
+C:\Users\Hanley\OneDrive - Kansas State University\cis400repo\ms42\obj\Debug\net10.0\InnManager.sourcelink.json
+C:\Users\Hanley\OneDrive - Kansas State University\cis400repo\ms42\obj\Debug\net10.0\InnManager.dll
+C:\Users\Hanley\OneDrive - Kansas State University\cis400repo\ms42\obj\Debug\net10.0\refint\InnManager.dll
+C:\Users\Hanley\OneDrive - Kansas State University\cis400repo\ms42\obj\Debug\net10.0\InnManager.pdb
+C:\Users\Hanley\OneDrive - Kansas State University\cis400repo\ms42\obj\Debug\net10.0\ref\InnManager.dll
